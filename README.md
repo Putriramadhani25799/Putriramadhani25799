@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋Profile
+Hello my name is `Putri`
+
+I'm studying at Andalas University, I'm taking mathematics major, class of 2024
